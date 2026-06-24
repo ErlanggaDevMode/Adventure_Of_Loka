@@ -1,4 +1,4 @@
-# Adventure of Loka 🏃‍♂️⚔️🌌
+# Adventure of Loka 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Stack](https://img.shields.io/badge/built%20with-Vite-646CFF.svg?logo=vite)](https://vitejs.dev/)
